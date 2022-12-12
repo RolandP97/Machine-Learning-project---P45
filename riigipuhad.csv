@@ -1,0 +1,175 @@
+date,title,notes,kind,kind_id
+2021-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2021-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2021-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2021-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2021-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2021-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2021-04-02,Suur reede,puhkepäev,Riigipüha,1
+2021-04-04,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2021-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2021-05-09,emadepäev,,Riiklik tähtpäev,3
+2021-05-23,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2021-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2021-06-14,leinapäev,,Riiklik tähtpäev,3
+2021-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2021-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2021-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2021-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2021-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2021-09-12,vanavanemate päev,,Riiklik tähtpäev,3
+2021-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2021-10-16,hõimupäev,,Riiklik tähtpäev,3
+2021-11-02,hingedepäev,,Riiklik tähtpäev,3
+2021-11-14,isadepäev,,Riiklik tähtpäev,3
+2021-11-16,taassünni päev,,Riiklik tähtpäev,3
+2021-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2021-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2021-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2021-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2021-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
+2022-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2022-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2022-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2022-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2022-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2022-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2022-04-15,Suur reede,puhkepäev,Riigipüha,1
+2022-04-17,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2022-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2022-05-08,emadepäev,,Riiklik tähtpäev,3
+2022-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2022-06-05,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2022-06-14,leinapäev,,Riiklik tähtpäev,3
+2022-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2022-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2022-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2022-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2022-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2022-09-11,vanavanemate päev,,Riiklik tähtpäev,3
+2022-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2022-10-15,hõimupäev,,Riiklik tähtpäev,3
+2022-11-02,hingedepäev,,Riiklik tähtpäev,3
+2022-11-13,isadepäev,,Riiklik tähtpäev,3
+2022-11-16,taassünni päev,,Riiklik tähtpäev,3
+2022-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2022-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2022-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2022-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2022-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
+2023-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2023-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2023-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2023-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2023-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2023-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2023-04-07,Suur reede,puhkepäev,Riigipüha,1
+2023-04-09,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2023-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2023-05-14,emadepäev,,Riiklik tähtpäev,3
+2023-05-28,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2023-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2023-06-14,leinapäev,,Riiklik tähtpäev,3
+2023-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2023-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2023-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2023-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2023-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2023-09-10,vanavanemate päev,,Riiklik tähtpäev,3
+2023-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2023-10-21,hõimupäev,,Riiklik tähtpäev,3
+2023-11-02,hingedepäev,,Riiklik tähtpäev,3
+2023-11-12,isadepäev,,Riiklik tähtpäev,3
+2023-11-16,taassünni päev,,Riiklik tähtpäev,3
+2023-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2023-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2023-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2023-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2023-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
+2024-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2024-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2024-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2024-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2024-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2024-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2024-03-29,Suur reede,puhkepäev,Riigipüha,1
+2024-03-31,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2024-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2024-05-12,emadepäev,,Riiklik tähtpäev,3
+2024-05-19,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2024-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2024-06-14,leinapäev,,Riiklik tähtpäev,3
+2024-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2024-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2024-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2024-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2024-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2024-09-08,vanavanemate päev,,Riiklik tähtpäev,3
+2024-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2024-10-19,hõimupäev,,Riiklik tähtpäev,3
+2024-11-02,hingedepäev,,Riiklik tähtpäev,3
+2024-11-10,isadepäev,,Riiklik tähtpäev,3
+2024-11-16,taassünni päev,,Riiklik tähtpäev,3
+2024-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2024-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2024-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2024-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2024-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
+2025-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2025-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2025-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2025-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2025-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2025-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2025-04-18,Suur reede,puhkepäev,Riigipüha,1
+2025-04-20,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2025-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2025-05-11,emadepäev,,Riiklik tähtpäev,3
+2025-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2025-06-08,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2025-06-14,leinapäev,,Riiklik tähtpäev,3
+2025-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2025-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2025-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2025-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2025-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2025-09-14,vanavanemate päev,,Riiklik tähtpäev,3
+2025-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2025-10-18,hõimupäev,,Riiklik tähtpäev,3
+2025-11-02,hingedepäev,,Riiklik tähtpäev,3
+2025-11-09,isadepäev,,Riiklik tähtpäev,3
+2025-11-16,taassünni päev,,Riiklik tähtpäev,3
+2025-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2025-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2025-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2025-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2025-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
+2026-01-01,Uusaasta,puhkepäev,Riigipüha,1
+2026-01-06,kolmekuningapäev,,Riiklik tähtpäev,3
+2026-02-02,Tartu rahulepingu aastapäev,,Riiklik tähtpäev,3
+2026-02-23,Eesti Vabariigi aastapäevale eelnev päev,,Lühendatud tööpäev,4
+2026-02-24,"Iseseisvuspäev, Eesti Vabariigi aastapäev",puhkepäev,Rahvuspüha,2
+2026-03-14,emakeelepäev,,Riiklik tähtpäev,3
+2026-04-03,Suur reede,puhkepäev,Riigipüha,1
+2026-04-05,Ülestõusmispühade 1. püha,puhkepäev,Riigipüha,1
+2026-05-01,Kevadpüha,puhkepäev,Riigipüha,1
+2026-05-10,emadepäev,,Riiklik tähtpäev,3
+2026-05-24,Nelipühade 1. püha,puhkepäev,Riigipüha,1
+2026-06-04,Eesti lipu päev,,Riiklik tähtpäev,3
+2026-06-14,leinapäev,,Riiklik tähtpäev,3
+2026-06-22,võidupühale eelnev päev,,Lühendatud tööpäev,4
+2026-06-23,Võidupüha,puhkepäev,Riigipüha,1
+2026-06-24,Jaanipäev,puhkepäev,Riigipüha,1
+2026-08-20,Taasiseseisvumispäev,puhkepäev,Riigipüha,1
+2026-08-23,kommunismi ja natsismi ohvrite mälestuspäev,,Riiklik tähtpäev,3
+2026-09-13,vanavanemate päev,,Riiklik tähtpäev,3
+2026-09-22,vastupanuvõitluse päev,,Riiklik tähtpäev,3
+2026-10-17,hõimupäev,,Riiklik tähtpäev,3
+2026-11-02,hingedepäev,,Riiklik tähtpäev,3
+2026-11-08,isadepäev,,Riiklik tähtpäev,3
+2026-11-16,taassünni päev,,Riiklik tähtpäev,3
+2026-12-23,jõululaupäevale eelnev päev,,Lühendatud tööpäev,4
+2026-12-24,Jõululaupäev,puhkepäev,Riigipüha,1
+2026-12-25,Esimene jõulupüha,puhkepäev,Riigipüha,1
+2026-12-26,Teine jõulupüha,puhkepäev,Riigipüha,1
+2026-12-31,uuele aastale eelnev päev,,Lühendatud tööpäev,4
